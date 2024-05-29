@@ -23,7 +23,9 @@ git clone https://github.com/your-username/supermarket-management-app.git
 
 #### 2. Create database
 
-[createDatabase](https://github.com/Burhan-Q/ultralytics/edit/main/README.md)
+Open SQL Server Management Studio (SSMS) and connect to your SQL Server instance.
+
+Create a new database by executing an SQL command [Create Database](https://github.com/Burhan-Q/ultralytics/edit/main/README.md)
 
 ## 3. User Manual
 

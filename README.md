@@ -29,7 +29,7 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 - Search for employees by employee code and employee name
 - Displays the total number of employees
 
-### 4.3. Employee
+### 4.3. Sales staff
 #### 4.3.1. Sales
 - Displays the account name of the employee making the sale
 - Add products to the order
@@ -54,6 +54,6 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 #### 6.2.1. Employee manager
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/EmployeeAdmin.png" width="800" alt="Employee manager" />
 
-### 6.3. Employee
+### 6.3. Sales staff
 #### 6.3.1. Sales
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/SalesEmployee.png" width="800" alt="Sales" />

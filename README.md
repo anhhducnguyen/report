@@ -27,14 +27,14 @@ Before you begin, ensure you have the following software installed:
    
    Create a new database by executing an SQL command [Create Database](https://github.com/Burhan-Q/ultralytics/edit/main/README.md)
 
-## 3. User Manual
+## User Manual
 
-## 4. Features
-### 4.1. Login
+## Features
+### Login
 - Login for admin
 - Login for sales staff
 - Show and hide passwords
-### 4.2. Admin
+### Admin
 #### 4.2.1. Overview 
 - Display total invoices
 - Total revenue of the store
@@ -43,7 +43,7 @@ Before you begin, ensure you have the following software installed:
 - Total number of employees
 - Column chart showing revenue 7 days ago
 - Show recent orders
-#### 4.2.2. Employee manager
+#### Employee manager
 - Display information of all employees: Photo, Employee code, Employee name, Phone number,...
 - Add new employee
 - Delete employee
@@ -51,8 +51,8 @@ Before you begin, ensure you have the following software installed:
 - Search for employees by employee code and employee name
 - Displays the total number of employees
 
-### 4.3. Sales staff
-#### 4.3.1. Sales
+### Sales staff
+#### Sales
 - Displays the account name of the employee making the sale
 - Add products to the order
 - Cancelling invoice
@@ -62,8 +62,6 @@ Before you begin, ensure you have the following software installed:
 - Calculate excess money
 - Payments
 - Payment with printed invoice
-
-## 5. Support and Contact
 
 ## 6. Pictures and Videos
 ### 6.1. Login

@@ -9,8 +9,11 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 
 ## 4. Features
 ### 4.1. Login
+- Login for admin
+- Login for sales staff
+- Show and hide passwords
 ### 4.2. Admin
-### 4.2.1. Overview 
+#### 4.2.1. Overview 
 - Display total invoices
 - Total revenue of the store
 - Total revenue for the day
@@ -18,7 +21,7 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 - Total number of employees
 - Column chart showing revenue 7 days ago
 - Show recent orders
-### 4.2.2. Employee manager
+#### 4.2.2. Employee manager
 - Display information of all employees: Photo, Employee code, Employee name, Phone number,...
 - Add new employee
 - Delete employee
@@ -27,6 +30,16 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 - Displays the total number of employees
 
 ### 4.3. Employee
+#### 4.3.1. Sales
+- Displays the account name of the employee making the sale
+- Add products to the order
+- Cancelling invoice
+- Delete products in invoices (can delete one or more invoices)
+- Increase the number of products in the invoice
+- Add new customers
+- Calculate excess money
+- Payments
+- Payment with printed invoice
 
 ## 5. Support and Contact
 

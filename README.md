@@ -3,25 +3,25 @@
 ## 1. Description
 Proposing a solo project to develop a modern POS management software for NAC Mini Mart. The software will include features for efficient inventory management, user-friendly sales interface, comprehensive financial tools, customer information management, and employee management. This project aims to enhance operational efficiency and optimize business performance for NAC Mini Mart.
 
-## 2. Installation Instructions
-`yolo` can be used for a variety of tasks and modes and accepts additional arguments, i.e. `imgsz=640`. See the YOLOv8 [CLI Docs](https://docs.ultralytics.com/usage/cli) for examples.
+## 2. Supermarket Management Application Installation Instructions
+### Prerequisites
+Before you begin, ensure you have the following software installed:
 
-### Python
+1. [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+   - Workload: `.NET Desktop Development`
+2. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+   - Ensure SQL Server is running and you have the necessary credentials.
+3. [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
-YOLOv8 may also be used directly in a Python environment, and accepts the same [arguments](https://docs.ultralytics.com/usage/cfg/) as in the CLI example above:
+### Step-by-Step Installation Guide
 
-```python
-from ultralytics import YOLO
+#### 1. Clone the Repository
 
-# Load a model
-model = YOLO("yolov8n.yaml")  # build a new model from scratch
-model = YOLO("yolov8n.pt")  # load a pretrained model (recommended for training)
+First, clone the repository containing the application source code.
 
-# Use the model
-model.train(data="coco8.yaml", epochs=3)  # train the model
-metrics = model.val()  # evaluate model performance on the validation set
-results = model("https://ultralytics.com/images/bus.jpg")  # predict on an image
-path = model.export(format="onnx")  # export the model to ONNX format
+```bash
+git clone https://github.com/your-username/supermarket-management-app.git
+cd supermarket-management-app
 ```
 
 ## 3. User Manual

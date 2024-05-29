@@ -8,6 +8,25 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 ## 3. User Manual
 
 ## 4. Features
+### 4.1. Login
+### 4.2. Admin
+### 4.2.1. Overview 
+- Display total invoices
+- Total revenue of the store
+- Total revenue for the day
+- Last week's revenue
+- Total number of employees
+- Column chart showing revenue 7 days ago
+- Show recent orders
+### 4.2.2. Employee manager
+- Display information of all employees: Photo, Employee code, Employee name, Phone number,...
+- Add new employee
+- Delete employee
+- Delete multiple employees at the same time
+- Search for employees by employee code and employee name
+- Displays the total number of employees
+
+### 4.3. Employee
 
 ## 5. Support and Contact
 
@@ -19,6 +38,9 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 #### 6.2.1. Overview
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/OverviewAdmin.png" width="800" alt="Overview" />
 
+#### 6.2.1. Employee manager
+<img src="https://github.com/AnhNguyen7303/report/blob/main/image/EmployeeAdmin.png" width="800" alt="Employee manager" />
+
 ### 6.3. Employee
 #### 6.3.1. Sales
-<img src="https://github.com/AnhNguyen7303/report/blob/main/image/OverviewAdmin.png" width="800" alt="Overview" />
+<img src="https://github.com/AnhNguyen7303/report/blob/main/image/SalesEmployee.png" width="800" alt="Sales" />

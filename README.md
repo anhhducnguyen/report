@@ -51,18 +51,18 @@ Before you begin, ensure you have the following software installed:
 - Log out
   
 ## 6. Pictures and Videos
-### 6.1. Login
+#### Login
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/Login1.png" width="800" alt="Login" />
 
-### 6.2. Admin
-#### 6.2.1. Overview
+#### Admin
+##### Overview
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/OverviewAdmin.png" width="800" alt="Overview" />
 
-#### 6.2.1. Employee manager
+##### Employee manager
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/EmployeeAdmin.png" width="800" alt="Employee manager" />
 
-### 6.3. Sales staff
-#### 6.3.1. Sales
+#### Sales staff
+##### Sales
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/SalesEmployee.png" width="800" alt="Sales" />
 
 ## <div align="center">Contact</div>

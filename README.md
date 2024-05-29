@@ -35,34 +35,21 @@ Before you begin, ensure you have the following software installed:
 - Login for sales staff
 - Show and hide passwords
 ### Admin
-#### 4.2.1. Overview 
-- Display total invoices
-- Total revenue of the store
-- Total revenue for the day
-- Last week's revenue
-- Total number of employees
-- Column chart showing revenue 7 days ago
-- Show recent orders
-#### Employee manager
-- Display information of all employees: Photo, Employee code, Employee name, Phone number,...
-- Add new employee
-- Delete employee
-- Delete multiple employees at the same time
-- Search for employees by employee code and employee name
-- Displays the total number of employees
+- Overview
+- Invoice Management
+- Customer management
+- Supplier management
+- Employee manager
+- Warehouse Management
+- Log out
 
 ### Sales staff
-#### Sales
-- Displays the account name of the employee making the sale
-- Add products to the order
-- Cancelling invoice
-- Delete products in invoices (can delete one or more invoices)
-- Increase the number of products in the invoice
-- Add new customers
-- Calculate excess money
-- Payments
-- Payment with printed invoice
-
+- Make an invoice
+- View invoice history
+- See warehouse
+- Change Password
+- Log out
+  
 ## 6. Pictures and Videos
 ### 6.1. Login
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/Login1.png" width="800" alt="Login" />

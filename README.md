@@ -13,7 +13,12 @@ Proposing a solo project to develop a modern POS management software for NAC Min
 
 ## 6. Pictures and Videos
 ### 6.1. Login
-![Login](https://github.com/AnhNguyen7303/report/blob/main/image/Login1.png)
+<img src="https://github.com/AnhNguyen7303/report/blob/main/image/Login1.png" width="800" alt="Login" />
+
 ### 6.2. Admin
-![overview](https://github.com/AnhNguyen7303/report/blob/main/image/OverviewAdmin.png)
+#### 6.2.1. Overview
+<img src="https://github.com/AnhNguyen7303/report/blob/main/image/OverviewAdmin.png" width="800" alt="Overview" />
+
 ### 6.3. Employee
+#### 6.3.1. Sales
+<img src="https://github.com/AnhNguyen7303/report/blob/main/image/OverviewAdmin.png" width="800" alt="Overview" />

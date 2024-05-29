@@ -14,9 +14,11 @@ Before you begin, ensure you have the following software installed:
 ### Step-by-Step Installation Guide
 
 #### 1. Clone the Repository
-
 First, clone the repository containing the application source code.
-
+```bash
+git clone https://github.com/your-username/supermarket-management-app.git
+```
+#### 2. Create database
 ```bash
 git clone https://github.com/your-username/supermarket-management-app.git
 ```

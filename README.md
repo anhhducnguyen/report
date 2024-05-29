@@ -29,7 +29,7 @@ Before you begin, ensure you have the following software installed:
 
 ## User Manual
 
-## Features
+## Features of the Supermarket Management Application
 ### Login
 - Login for admin
 - Login for sales staff

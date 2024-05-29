@@ -74,6 +74,11 @@ git clone https://github.com/your-username/supermarket-management-app.git
 #### 6.3.1. Sales
 <img src="https://github.com/AnhNguyen7303/report/blob/main/image/SalesEmployee.png" width="800" alt="Sales" />
 
+## <div align="center">Contact</div>
+
+For Ultralytics bug reports and feature requests please visit [GitHub Issues](https://github.com/ultralytics/ultralytics/issues), and join our [Discord](https://ultralytics.com/discord) community for questions and discussions!
+
+<br>
 <div align="center">
   <a href="https://github.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">

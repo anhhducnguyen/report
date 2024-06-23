@@ -1,17 +1,17 @@
 
-# Dog wiki
-To solve the problem of lack of information sources about dogs, we have developed a mobile application or website with the goal of providing detailed and reliable information about every aspect of similar dog breeds. Our app is not simply a database of dog breeds, but also a useful and easily accessible resource for pet lovers.
+# Building Sales Software for Mini Supermarket
 
-One of the main features of the app is the dog breed list, where users can learn about the most popular and rare dog breeds. Each breed is presented in a clear and attractive manner, accompanied by images and brief information about the origin, history, and distinguishing characteristics of each breed.
+The project `Mini supermarket management software` is a software development project, with the purpose of building an employee, product, and order management system for mini supermarkets. The system will calculate costs based on the number of products that have been purchased, and provide management, reporting and statistics functions. In order for users to have a good experience when using it, it needs to be tested before being used more widely.
 
-## Dog wiki Application Installation Instructions
+## Supermarket Management Application Installation Instructions
 ### Prerequisites
 Before you begin, ensure you have the following software installed:
 
-1. [Android Studio](https://developer.android.com/studio?hl=vi)
-   - Workload: `Android Studio`
-2. [Firebase](https://firebase.google.com/)
-   - Ensure `Firebase` is running and you have the necessary credentials.
+1. [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
+   - Workload: `.NET Desktop Development`
+2. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+   - Ensure `SQL Server` is running and you have the necessary credentials.
+3. [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
 ### Step-by-Step Installation Guide
 
@@ -20,40 +20,66 @@ Before you begin, ensure you have the following software installed:
    First, clone the repository containing the application source code.
 
    ```bash
-   git clone https://github.com/anhhducnguyen/Dog-Shop
+   git clone https://github.com/your-username/supermarket-management-app.git
    ```
+
+**Step 2.** Create database
+
+   Open `SQL Server Management Studio` (SSMS) and connect to your SQL Server instance.
    
-## Features of the Dog wiki
-- **Register:** Register to use the software
-- **Login:** Log in to use the software
-- **Forgot password:** Helps users retrieve their password if they do not remember the password
-- **Search Dog:** With the large number of dog breeds and diversity in user needs, having a powerful search engine makes it easy for them to find the dog that best suits them.
-- **Detailed information about dogs:** Provides detailed information about each dog breed, including history, physical characteristics, personality, exercise needs, care requirements, and common health problems.
-- **Favourite:** The favorites list feature is an important part of the application. Users can add dog breeds they are interested in to their favorites list for easy monitoring and management. Information about your favorites list can even be stored on the cloud platform so users can access it from any device and never lose it.
-- **Setting:** Helps adjust the font size, light and dark interface color to suit your needs
+   Create a new database by executing an SQL command [Create Database](https://github.com/Burhan-Q/ultralytics/edit/main/README.md)
 
-  
+## User Manual
+
+## Features of the Supermarket Management Application
+### Login
+- Login for admin
+- Login for sales staff
+- Show and hide passwords
+### Admin
+- Overview
+- Invoice Management
+- Customer management
+- Supplier management
+- Employee manager
+- Warehouse Management
+- Log out
+
+### Sales staff
+- Make an invoice
+- View invoice history
+- See warehouse
+- Change Password
+- Log out
+
+## Test scope
+
+- Log in
+- Employee manager
+- Product Management
+- Order management
+- Goods import management
+- Main functions of the supermarket management system (Invoicing, statistics, etc.)
+
+
 ## Demo of some outstanding features of the product
+#### Login for admin and staff
 
-#### White background interface home page
+Use the account I provide below to log in with manager rights. If you want to log in with employee rights, create a new employee
 
-<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_home1.jpg" width="200" alt="dog_home1" />
+```bash
+admin account: admin
+password: 1234
+```
 
-#### Black background interface home page
+<img src="https://github.com/AnhNguyen7303/report/blob/main/image/Login1.png" width="800" alt="Login" />
 
-<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_home2.jpg" width="200" alt="dog_home2" />
+#### Admin
+##### Overview
+##### Employee manager
+#### Sales staff
+##### Sales
 
-#### Search bar for software functions
-
-<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_feature.jpg" width="200" alt="dog_feature" />
-
-#### Search species by name
-
-<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_search.jpg" width="200" alt="dog_search" />
-
-#### Settings page interface
-
-<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_setting.jpg" width="200" alt="dog_setting" />
 
 ## <div align="left">Contact</div>
 

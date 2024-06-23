@@ -1,5 +1,5 @@
 
-# Building Sales Software for Mini Supermarket
+# Perform sales software testing for Mini supermarkets
 
 The project `Mini supermarket management software` is a software development project, with the purpose of building an employee, product, and order management system for mini supermarkets. The system will calculate costs based on the number of products that have been purchased, and provide management, reporting and statistics functions. In order for users to have a good experience when using it, it needs to be tested before being used more widely.
 
@@ -52,7 +52,7 @@ Before you begin, ensure you have the following software installed:
 - Change Password
 - Log out
 
-## Test scope
+## Test Scope
 
 - Log in
 - Employee manager
@@ -72,7 +72,7 @@ admin account: admin
 password: 1234
 ```
 
-<img src="https://github.com/AnhNguyen7303/report/blob/main/image/Login1.png" width="800" alt="Login" />
+<img src="" width="800" alt="" />
 
 #### Admin
 ##### Overview
@@ -83,7 +83,7 @@ password: 1234
 
 ## <div align="left">Contact</div>
 
-To report bugs and request features of NAC software, please contact me for questions and discussion!
+To report bugs and request features of software, please contact me for questions and discussion!
 
 <br>
 <div align="center">

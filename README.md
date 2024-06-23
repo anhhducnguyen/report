@@ -8,11 +8,10 @@ One of the main features of the app is the dog breed list, where users can learn
 ### Prerequisites
 Before you begin, ensure you have the following software installed:
 
-1. [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
-   - Workload: `.NET Desktop Development`
-2. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-   - Ensure `SQL Server` is running and you have the necessary credentials.
-3. [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+1. [Android Studio](https://developer.android.com/studio?hl=vi)
+   - Workload: `Android Studio`
+2. [Firebase](https://firebase.google.com/)
+   - Ensure `Firebase` is running and you have the necessary credentials.
 
 ### Step-by-Step Installation Guide
 
@@ -23,13 +22,7 @@ Before you begin, ensure you have the following software installed:
    ```bash
    git clone https://github.com/anhhducnguyen/Dog-Shop
    ```
-
-**Step 2.** Create database
-
-   Open `SQL Server Management Studio` (SSMS) and connect to your SQL Server instance.
    
-   Create a new database by executing an SQL command [Create Database](https://github.com/Burhan-Q/ultralytics/edit/main/README.md)
-
 ## Features of the Dog wiki
 - **Register:** Register to use the software
 - **Login:** Log in to use the software
@@ -41,14 +34,26 @@ Before you begin, ensure you have the following software installed:
 
   
 ## Demo of some outstanding features of the product
-#### 
-#### 
-####
-#### 
-####  
 
+#### White background interface home page
 
+<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_home1.jpg" width="200" alt="dog_home1" />
 
+#### Black background interface home page
+
+<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_home2.jpg" width="200" alt="dog_home2" />
+
+#### Search bar for software functions
+
+<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_feature.jpg" width="200" alt="dog_feature" />
+
+#### Search species by name
+
+<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_search.jpg" width="200" alt="dog_search" />
+
+#### Settings page interface
+
+<img src="https://github.com/anhhducnguyen/report/blob/main/image/dog_setting.jpg" width="200" alt="dog_setting" />
 
 ## <div align="left">Contact</div>
 

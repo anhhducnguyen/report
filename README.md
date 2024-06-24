@@ -16,6 +16,7 @@ Before you begin, ensure you have the following software installed:
 
 **Step 2.** Create database
 
+**Step 3.** Setting 
 
 ```bash
 python -m venv myenv
@@ -62,22 +63,8 @@ pip install -r requirements.txt
 ```
 
 ## Demo of some outstanding features of the product
-#### Login for admin and staff
 
-Use the account I provide below to log in with manager rights. If you want to log in with employee rights, create a new employee
 
-```bash
-admin account: admin
-password: 1234
-```
-
-<img src="" width="800" alt="" />
-
-#### Admin
-##### Overview
-##### Employee manager
-#### Sales staff
-##### Sales
 
 
 ## <div align="left">Contact</div>

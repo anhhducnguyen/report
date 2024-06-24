@@ -34,6 +34,10 @@ django-admin startproject Student-Attendance-Face-ID
 ```
 
 ```bash
+pip install django-heroku
+```
+
+```bash
 cd .\StudentAttendanceFaceID\
 ```
 

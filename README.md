@@ -53,6 +53,14 @@ python .\manage.py createsuperuser
 python .\manage.py runserver
 ```
 
+```bash
+python -m pip install dlib-19.24.99-cp312-cp312-win_amd64.whl
+```
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Demo of some outstanding features of the product
 #### Login for admin and staff
 

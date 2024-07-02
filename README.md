@@ -1,4 +1,4 @@
-# Hello Duc Anh
+
 # Perform 
  
 ### Prerequisites

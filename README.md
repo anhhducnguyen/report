@@ -1,4 +1,4 @@
-# Hello 
+# oh my posh
 # Perform 
  
 ### Prerequisites

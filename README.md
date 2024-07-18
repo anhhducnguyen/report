@@ -1,4 +1,4 @@
-# oh my posh notepad $PROFILE.
+# oh my posh notepad $PROFILE...
 # Perform 
  
 ### Prerequisites

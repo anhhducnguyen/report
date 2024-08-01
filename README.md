@@ -1,5 +1,5 @@
 # oh my posh notepad $PROFILE ...
-# echo "Hello" > hi.txt
+# echo "Hello" hi.txt
 
 
 ###### [Image](https://static-images.vnncdn.net/files/publish/2023/1/1/anh-1-1248.jpg)

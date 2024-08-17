@@ -1,5 +1,7 @@
 # oh my posh notepad $PROFILE 
 
+java
+
 cout << "hi";
 
 print("06-08-2024");

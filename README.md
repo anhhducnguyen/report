@@ -27,6 +27,12 @@ Before you begin, ensure you have the following software installed:
 
 ### Step-by-Step Installation Guide
 
+Cài đặt các gói từ requirements.txt, bỏ qua mã băm:
+
+```
+pip install --no-deps --ignore-installed --force-reinstall -r requirements.txt
+```
+
 **Step 1.** Clone the Repository
 
    First, clone the repository containing the application source code.
